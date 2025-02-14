@@ -64,4 +64,4 @@ Narcolepsy is categorized into:
 
 
 
-📌 **For more details, visit**: [newmodamd.com](https://newmodamd.com/)
+📌 **For more details, visit**: ]([https://newmodamd.com/](https://newmodamd.com/blog/))
