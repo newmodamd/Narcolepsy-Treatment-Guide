@@ -14,4 +14,3 @@
 ## 3️⃣ Cognitive & Behavioral Therapy (CBT)
 CBT can help **manage emotional stress** and improve daily functioning.
 
-📌 *See [medications.md](medications.md) for detailed drug treatments.*
