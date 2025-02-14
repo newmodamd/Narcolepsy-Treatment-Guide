@@ -8,13 +8,13 @@ Narcolepsy is a chronic neurological disorder affecting the brain’s ability to
 ---
 
 ## 📌 Table of Contents
-- [Understanding Narcolepsy](#understanding-narcolepsy)
-- [Treatment Options](#treatment-options)
-- [Approved Medications](#approved-medications)
-- [Lifestyle Modifications](#lifestyle-modifications)
-- [Latest Research & Studies](#latest-research--studies)
-- [Government Health Resources](#government-health-resources)
-- [Patient Support & Communities](#patient-support--communities)
+- [Understanding Narcolepsy]
+- [Treatment Options]
+- [Approved Medications]
+- [Lifestyle Modifications]
+- [Latest Research & Studies]
+- [Government Health Resources]
+- [Patient Support & Communities]
 
 ---
 
